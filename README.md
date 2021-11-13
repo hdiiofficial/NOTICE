@@ -21,5 +21,5 @@ CLICK LOGO INI UNTUK ADD KE GROUP ANDA»
 </p>
 
 ### NOTHING
-<p><a href="https://komarev.com/ghpvc/?username=hdiiofficial/notice&color=blue&style=flat-square&label=TOTAL+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=hdiiofficial/notice&color=blue&style=flat-square&label=TOTAL+View"></a>
+<p><a href="https://komarev.com/ghpvc/?username=hdiiofficial&color=blue&style=flat-square&label=TOTAL+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=hdiiofficial&color=blue&style=flat-square&label=TOTAL+View"></a>
 </p>
