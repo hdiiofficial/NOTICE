@@ -19,3 +19,7 @@ CLICK LOGO INI UNTUK ADD KE GROUP ANDA»
   <a href="https://github.com/hdiiofficial"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCQGj68QT7OTmrpZL2NFVXoQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCQGj68QT7OTmrpZL2NFVXoQ?style=social" /> <br>
 </p>
+
+### NOTHING
+<p><a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+View"></a>
+</p>
