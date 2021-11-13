@@ -5,4 +5,4 @@
  JIKA KALIAN MAU PAKE SILAHKAN SAJA PAKE BOT SAYA
  <p>
 <b>silahkan add bot saya ke group anda</b> </p>
-<a href="https://t.me/hdiiofficial_bot"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegrambot&logoColor=white" />
+<a href="https://t.me/hdiiofficial_bot"><img src="https://img.shields.io/badge/Telegrambot-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
