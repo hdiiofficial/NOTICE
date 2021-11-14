@@ -1,9 +1,9 @@
 # BACA PESAN INI 
 
 
-<h1>MAAF BRADER TAPI REPO BOT INI SAYA PRIVATE</h1>
-##INGFO
-<p> GW OPEN SC NI [Musicbot](https://github.com/hdiiofficial/Musicbot)</p>
+<h1>MAAF BRADER TAPI REPO BOT INI SAYA PRIVATE
+Tapi gw ada sc music bisa lu pke scroll ke bawah mentok scnya</h1>
+
  JIKA KALIAN MAU PAKE SILAHKAN SAJA PAKE BOT SAYA
 
  <p>
