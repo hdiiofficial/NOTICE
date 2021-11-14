@@ -3,6 +3,7 @@
 
 <h1>MAAF BRADER TAPI REPO BOT INI SAYA PRIVATE</h1>
  JIKA KALIAN MAU PAKE SILAHKAN SAJA PAKE BOT SAYA
+Tapi ni gw open sc music nih sc nya [Musicbot](https://github.com/hdiiofficial/Musicbot)
  <p>
 <b>silahkan add bot saya ke group anda</b> </p>
 CLICK LOGO INI UNTUK ADD KE GROUP ANDA»
