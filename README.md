@@ -8,6 +8,8 @@
 CLICK LOGO INI UNTUK ADD KE GROUP ANDA»
 <a href="https://t.me/hdiiofficial_bot?startgroup=true"><img src="https://img.shields.io/badge/Telegrambot-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 
+###NOTE
+<p><strong>AWOKAWOK LU NGAPAIN NYARI SOURCE CODE TINGGAL LU ADD BOT GW KE GROUP LU DAH GITU DOANG GAMPANG NGAPAIN NYARI YANG RIBET NYARI SOURCE CODE?PPFFFTT</strong></p>
 
 ### Connect with me ☎️
 <p align="center">
